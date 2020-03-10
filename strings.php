@@ -21,10 +21,10 @@ function s ($word){
 	
 	
 	$en = array(
-	"welcome" => "welcome",
-	"loading" => "Loading...",
-	"login" => " ",
-	"register" => " ",
+	"welcome" => "witaj",
+	"loading" => "Ładowanie...",
+	"login" => "Logowanie ",
+	"register" => "Rejestracja",
 	
 	
 	
