@@ -23,7 +23,8 @@ function s ($word){
 	$en = array(
 	"welcome" => "welcome",
 	"loading" => "Loading...",
-	
+	"login" => " ",
+	"register" => " ",
 	
 	
 	
@@ -35,6 +36,8 @@ function s ($word){
 	$pl = array(
 	"welcome" => "witaj",
 	"loading" => "Ładowanie...",
+	"login" => "Logowanie",
+	"register" => "Rejestracja",
 	
 	
 	
