@@ -25,11 +25,19 @@ function s ($word){
 	"loading" => "Ładowanie...",
 	"login" => "Logowanie ",
 	"register" => "Rejestracja",
-	
-	
-	
-	
-	
+	"full_name" => "Full Name",
+	"your_email" => "Your Email",
+	"password"   => "Password",
+	"prof0" => "Model (F)",
+	"prof1" => "Model (M)",
+	"prof2" => "Photographer",
+	"prof3" => "Makeup Artist",
+	"prof4" => "Stylist",
+	"prof5" => "Hairstylist",
+	"prof6" => "Retoucher",
+	"prof7" => "Fashion Designer",
+	"accept_terms" => "I accept the <a href=\"#\">Terms and Conditions</a> of the website",
+	"complete_registration_button" = "Complete Registration!",
 	
 	);
 	
@@ -38,11 +46,19 @@ function s ($word){
 	"loading" => "Ładowanie...",
 	"login" => "Logowanie",
 	"register" => "Rejestracja",
-	
-	
-	
-	
-	
+	"full_name" => "Full Name",
+	"your_email" => "Your Email",
+	"password"   => "Password",
+	"prof0" => "Model (F)",
+	"prof1" => "Model (M)",
+	"prof2" => "Photographer",
+	"prof3" => "Makeup Artist",
+	"prof4" => "Stylist",
+	"prof5" => "Hairstylist",
+	"prof6" => "Retoucher",
+	"prof7" => "Fashion Designer",
+	"accept_terms" => "I accept the <a href=\"#\">Terms and Conditions</a> of the website",
+	"complete_registration_button" = "Complete Registration!",
 	
 	
 	);
