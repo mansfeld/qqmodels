@@ -28,6 +28,8 @@ function s ($word){
 	"full_name" => "Full Name",
 	"your_email" => "Your Email",
 	"password"   => "Password",
+	"profession" => "Profession",
+	"birthday" => "Birthday",
 	"prof0" => "Model (F)",
 	"prof1" => "Model (M)",
 	"prof2" => "Photographer",
@@ -37,7 +39,7 @@ function s ($word){
 	"prof6" => "Retoucher",
 	"prof7" => "Fashion Designer",
 	"accept_terms" => "I accept the <a href=\"#\">Terms and Conditions</a> of the website",
-	"complete_registration_button" = "Complete Registration!",
+	"complete_registration_button" => "Complete Registration!",
 	
 	);
 	
@@ -49,6 +51,8 @@ function s ($word){
 	"full_name" => "Full Name",
 	"your_email" => "Your Email",
 	"password"   => "Password",
+	"profession" => "Profession",
+	"birthday" => "Birthday",
 	"prof0" => "Model (F)",
 	"prof1" => "Model (M)",
 	"prof2" => "Photographer",
@@ -58,7 +62,7 @@ function s ($word){
 	"prof6" => "Retoucher",
 	"prof7" => "Fashion Designer",
 	"accept_terms" => "I accept the <a href=\"#\">Terms and Conditions</a> of the website",
-	"complete_registration_button" = "Complete Registration!",
+	"complete_registration_button" => "Complete Registration!",
 	
 	
 	);
