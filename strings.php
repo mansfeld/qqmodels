@@ -1,6 +1,6 @@
 <?php
 
-if (isset($_COOKIE["lang"])){
+if (isset($_COOKIE["lang"])){ :)
 	
 	if ($_COOKIE["lang"] == "pl"){
 		$lang = "pl";
